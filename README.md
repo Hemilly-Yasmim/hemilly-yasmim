@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
  
-  ![Animação de cobra]( ![snake gif](https://github.com/hemilly-yasmim/github/hemilly-yasmim/github/blob/output/github-contribution-grid-snake.svg))
+  ![Animação de cobra] ![snake gif](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
